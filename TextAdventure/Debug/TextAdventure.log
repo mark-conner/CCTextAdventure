@@ -1,0 +1,8 @@
+﻿  TextAdventure.cpp
+c:\users\mark\onedrive - centralia college\1617-4 spring\cs& 131 - 7233\visual studio\projects\textadventure\textadventure\textadventure.cpp(371): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\onedrive - centralia college\1617-4 spring\cs& 131 - 7233\visual studio\projects\textadventure\textadventure\textadventure.cpp(396): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\onedrive - centralia college\1617-4 spring\cs& 131 - 7233\visual studio\projects\textadventure\textadventure\textadventure.cpp(404): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\onedrive - centralia college\1617-4 spring\cs& 131 - 7233\visual studio\projects\textadventure\textadventure\textadventure.cpp(420): warning C4018: '>=': signed/unsigned mismatch
+c:\users\mark\onedrive - centralia college\1617-4 spring\cs& 131 - 7233\visual studio\projects\textadventure\textadventure\textadventure.cpp(424): warning C4018: '<': signed/unsigned mismatch
+  TextAdventure.vcxproj -> C:\Users\Mark\OneDrive - Centralia College\1617-4 Spring\CS& 131 - 7233\Visual Studio\Projects\TextAdventure\Debug\TextAdventure.exe
+  TextAdventure.vcxproj -> C:\Users\Mark\OneDrive - Centralia College\1617-4 Spring\CS& 131 - 7233\Visual Studio\Projects\TextAdventure\Debug\TextAdventure.pdb (Partial PDB)

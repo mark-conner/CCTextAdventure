@@ -1,0 +1,40 @@
+the Foyer
+This is the enterance to the school. The Janitor is working on the door latch so people can get out. The Janitor says, "If you help me with these people in the building, I can get this door fixed."  There is a door to the north and the broken door to the south.
+CD player
+The Janitor says, "Do you really think that is going to help me fix this?"
+HEY! Are you trying to hurt me with that?
+My drill!  What were you doing with that?  I need that you know.
+drill
+off
+the Music Room
+This is the music room.  There is a student in here that says, "I'm trying to create music, but I feel so uninspired today.  The Janitor is making a lot of noise." There are doors on the north, south and west sides of the room.
+nothing
+The music student looks at you annoyed and says, "I am trying to create art here."
+The music student looks at the radio and then at you with a blank stare.
+The music student's face lights up and he starts writing.
+radio
+on
+the Study Hall
+This is where stundents go to study.  There are many student trying to get homework done.  There is a door to the north with a sign that says "Door Latch Broken."  There is another do to the west.
+flashlight
+One of the students jumps at you and says, "Why can't you and that Janitor leave us alone?  GET OUT OF HERE!"
+No right item
+No right item
+nothing
+off
+the teacher's lounge
+This room is completely dark.  There is a teacher in here that says, "The Janitor has not fixed these light in days.  I need to grade these papers.  I hate the Janitor... wait, is that you Janitor?  I didn't mean it...." There are doors to the west and south.
+radio
+The teacher says, "Did you leave something in here?  I can't see it.  I might  rip on it and hurt myself.  You're the Janitor trying to hurt me again aren't you?"
+The teacher says, "What are you doing? I can't see anything.  Somebody help me!"
+The teacher smiles and starts grading papers.
+flashlight
+on
+a classroom
+This is a typical class room.  There is one student trying to study that says, "The Janitor said we are stuck in here.  I am trying to study, but he makes so much noise that I cannot concentrate.  So many things are broken here.  Don't tell him I'm complaining though.  He gets so mean."  There is a door to the south with a sign that says "Broken Latch."  There is another door to the west.
+drill
+The student says, "Do you have to do that? I am really trying to get some work done."
+The student says, "Why are you listening to my CD player?  You're as mean as the Janitor."
+The student says, "My CD player!  The Janitor said I couldn't have it and took it.  Now I can block out the noise."
+CD player
+off

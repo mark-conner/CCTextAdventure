@@ -1,0 +1,20 @@
+flashlight
+It is your standard flashlight.
+off
+A beam of light shines from the flashlight.
+The flashlight goes dark.
+radio
+A small battery powered AM/FM rado.
+on
+Music plays from the radio.
+The Radio is not playing anything.
+CD player
+A portable CD player with headphones.
+on
+Soothing music comes from the headphones.
+The CD player goes quiet and turns off.
+drill
+A small battery powered drill with a screwdriver bit in it.
+off
+The screwdriver bit spins.
+The screwdriver stops spinning.
